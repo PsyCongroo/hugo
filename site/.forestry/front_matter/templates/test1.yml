@@ -1,4 +1,11 @@
 ---
 label: test1
 hide_body: false
-fields: []
+fields:
+- name: sample1
+  type: file
+  config:
+    maxSize: 64
+  label: sample1
+  hidden: true
+  default: "/uploads/mediterranean-landscape-art-colorful-rain-wall-canvas-wall-art-living-room-wall-decor-painting-banksy-colored-jpg_q50.jpg"
